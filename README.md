@@ -17,12 +17,11 @@ This project implements a production-ready benchmark for evaluating conversation
  ![](Archiecture.png)
 
 ## Technical Specifications
-- **LLM Models**: Llama 3 (8B) via Ollama
+- **LLM Models**: Llama 3.2 (3B) via Ollama
 - **Embeddings**: Nomic v1.5
 - **Vector Database**: Qdrant
 - **Core Libraries**: LangChain, Gradio, Qdrant Client
-- **Scalability**: Tested with 300+ facets, designed for 5000+
-- **Output**: Scores (1-5) with confidence metrics (0.0-1.0)
+- **Output**: JSON output of scores (1-5) with confidence metrics (0.0-1.0)
 
 ## Installation
 
