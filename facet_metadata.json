@@ -1,0 +1,1482 @@
+{
+  "Risktaking": {
+    "original": "Risktaking",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of risk taking"
+  },
+  "Naivety": {
+    "original": "Naivety",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on naivety level"
+  },
+  "Acidity": {
+    "original": "Acidity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on acidity level"
+  },
+  "Democratic Leadership: Common-sense": {
+    "original": "Common-sense",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on common sense"
+  },
+  "Democratic Leadership: Hesitation": {
+    "original": "Hesitation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on hesitation level"
+  },
+  "Democratic Leadership: Discontentment": {
+    "original": "Discontentment",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on discontentment level"
+  },
+  "Democratic Leadership: Overprotectiveness": {
+    "original": "Overprotectiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on overprotectiveness level"
+  },
+  "Democratic Leadership: Merriness": {
+    "original": "Merriness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on merriness level"
+  },
+  "Emotionalism": {
+    "original": "Emotionalism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional stability"
+  },
+  "Self-improvement": {
+    "original": "Self-improvement",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-awareness and motivation"
+  },
+  "Statistical Reasoning": {
+    "original": "Statistical Reasoning",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on analytical skills"
+  },
+  "Assertiveness and control in relationships": {
+    "original": "Assertiveness and control in relationships",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on interpersonal skills"
+  },
+  "Cunningness": {
+    "original": "Cunningness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on strategic thinking"
+  },
+  "Adventure-Seeking Behavior": {
+    "original": "Adventure-Seeking Behavior",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on willingness to take risks"
+  },
+  "Compassion Fatigue": {
+    "original": "Compassion Fatigue",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional exhaustion"
+  },
+  "Moroseness": {
+    "original": "Moroseness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on negative emotions"
+  },
+  "Specialist": {
+    "original": "Specialist",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on expertise"
+  },
+  "Aloofness": {
+    "original": "Aloofness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on social detachment"
+  },
+  "determinedness": {
+    "original": "Determinedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-discipline and motivation"
+  },
+  "genuine": {
+    "original": "Genuine",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on authenticity and sincerity"
+  },
+  "honesty-humility": {
+    "original": "Honesty-Humility: Relationship Building Themes",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on empathy, kindness, and respect for others"
+  },
+  "openness": {
+    "original": "Openness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on adaptability, curiosity, and open-mindedness"
+  },
+  "self-esteem": {
+    "original": "SelfEsteem",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on confidence, self-worth, and emotional stability"
+  },
+  "big-heartedness": {
+    "original": "Big-heartedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on kindness, generosity, and compassion towards others"
+  },
+  "Compulsive activities": {
+    "original": "Compulsive activities",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on frequency of compulsive behaviors"
+  },
+  "Disrespect": {
+    "original": "Disrespect",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of disrespect towards others"
+  },
+  "FSH level": {
+    "original": "FSH level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on follicle-stimulating hormone levels"
+  },
+  "Self Perspective": {
+    "original": "Self Perspective",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-awareness and introspection"
+  },
+  "Desperation": {
+    "original": "Desperation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of desperation or hopelessness"
+  },
+  "Affiliation Motivation: Anatomy knowledge": {
+    "original": "Anatomy knowledge",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on understanding of human anatomy"
+  },
+  "Passive-Aggressive": {
+    "original": "Passive-Aggressive",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of passive-aggressive behavior"
+  },
+  "Presence of Spiritual Pain": {
+    "original": "Presence of Spiritual Pain",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on presence of spiritual pain or distress"
+  },
+  "Role of Spirituality in Community Involvement": {
+    "original": "Role of Spirituality in Community Involvement",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on role of spirituality in community involvement"
+  },
+  "Eco-tourism trips": {
+    "original": "Eco-tourism trips",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the number of eco-tourism trips"
+  },
+  "Chivalrousness": {
+    "original": "Chivalrousness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on chivalrous behavior"
+  },
+  "Pilgrimage participation count": {
+    "original": "Pilgrimage participation count",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the number of pilgrimages participated"
+  },
+  "Mindfulness facet: Observing": {
+    "original": "Mindfulness facet: Observing",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on observing mindfulness"
+  },
+  "Submissiveness": {
+    "original": "Submissiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on submissiveness"
+  },
+  "Training-cycle length": {
+    "original": "Training-cycle length",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on training cycle length"
+  },
+  "Sensitiveness": {
+    "original": "Sensitiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on sensitiveness"
+  },
+  "Negative Affect Frequency": {
+    "original": "Negative Affect Frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on negative affect frequency"
+  },
+  "Innovation and Creativity Components:": {
+    "original": "Innovation and Creativity Components:",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on innovation and creativity components"
+  },
+  "Achievement Motivation": {
+    "original": "Feedback-giving frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Frequency of providing feedback to others"
+  },
+  "Dance-cardio sessions": {
+    "original": "Dance-cardio sessions",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Number of dance-cardio sessions per week"
+  },
+  "Enthusiasm": {
+    "original": "Enthusiasm",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Level of enthusiasm and excitement"
+  },
+  "Psychological construct: Social Desirability tendency": {
+    "original": "Psychological construct: Social Desirability tendency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Tendency to present oneself in a socially desirable way"
+  },
+  "Inattentiveness": {
+    "original": "Inattentiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Level of distraction and lack of focus"
+  },
+  "Unassertiveness": {
+    "original": "Unassertiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Level of assertiveness in expressing needs and wants"
+  },
+  "Decision-making decisiveness": {
+    "original": "Decision-making decisiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Speed and confidence in making decisions"
+  },
+  "Sense-of-coherence score": {
+    "original": "Sense-of-coherence score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Ability to make sense of the world and cope with stress"
+  },
+  "Justice-mindedness": {
+    "original": "Justice-mindedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Commitment to fairness and justice"
+  },
+  "subscription_count": {
+    "original": "Subscription count",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on frequency of subscription",
+    "needs_external_data": false
+  },
+  "depression_symptoms": {
+    "original": "Depression Symptoms",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on severity of symptoms",
+    "needs_external_data": false
+  },
+  "spatial_perception": {
+    "original": "Spatial perception",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on ability to perceive spatial relationships",
+    "needs_external_data": false
+  },
+  "brevity": {
+    "original": "Brevity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on conciseness of writing style",
+    "needs_external_data": false
+  },
+  "orderliness": {
+    "original": "Orderliness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on attention to detail and organization",
+    "needs_external_data": false
+  },
+  "multiculturalism": {
+    "original": "Multiculturalism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to appreciate diversity",
+    "needs_external_data": false
+  },
+  "creative_risk_taking_tendency": {
+    "original": "Creative risk-taking tendency",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on willingness to take creative risks",
+    "needs_external_data": false
+  },
+  "inefficiency": {
+    "original": "Inefficiency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on productivity and efficiency",
+    "needs_external_data": false
+  },
+  "network_basics": {
+    "original": "Network basics",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on understanding of network fundamentals",
+    "needs_external_data": false
+  },
+  "alphabetical_filing_skills": {
+    "original": "Alphabetical filing skills",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to organize and file documents alphabetically",
+    "needs_external_data": false
+  },
+  "Character strength: Perseverance": {
+    "original": "Character strength: Perseverance",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on perseverance in work styles"
+  },
+  "Competition": {
+    "original": "Competition",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on competitiveness in work styles"
+  },
+  "Logical Sequence Identification": {
+    "original": "Logical Sequence Identification",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on logical sequence identification skills"
+  },
+  "Sustainable-transport usage": {
+    "original": "Sustainable-transport usage",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on sustainable transport usage habits"
+  },
+  "Hardworking": {
+    "original": "Hardworking",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on work ethic and hardwork"
+  },
+  "Emotional-intelligence measure: Impulsiveness": {
+    "original": "Emotional-intelligence measure: Impulsiveness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on impulsiveness in emotional intelligence"
+  },
+  "Dishonesty": {
+    "original": "Dishonesty",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on dishonesty in work styles"
+  },
+  "Preferred epistemology": {
+    "original": "Preferred epistemology",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on preferred epistemological approach"
+  },
+  "Memory for Sounds": {
+    "original": "Memory for Sounds",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on memory for sounds"
+  },
+  "Sportsmanship rating": {
+    "original": "Sportsmanship rating",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on sportsmanship"
+  },
+  "Immaturity": {
+    "original": "Immaturity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on immaturity"
+  },
+  "Health-literacy level": {
+    "original": "Health-literacy level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on health-literacy level"
+  },
+  "Estimating Calculations": {
+    "original": "Estimating Calculations",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on estimating calculations"
+  },
+  "Depression: Feelings of sadness and hopelessness": {
+    "original": "Depression: Feelings of sadness and hopelessness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on depression"
+  },
+  "Synthesis of information": {
+    "original": "Synthesis of information",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on synthesis of information"
+  },
+  "Leadership Potential: Ethical standards": {
+    "original": "Leadership Potential: Ethical standards",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on leadership potential and ethical standards"
+  },
+  "High-spiritedness": {
+    "original": "High-spiritedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on high-spiritedness"
+  },
+  "Critical reasoning": {
+    "original": "Critical reasoning",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on critical reasoning"
+  },
+  "Sleep-disorder diagnosis": {
+    "original": "Sleep-disorder diagnosis",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on severity of sleep disorder"
+  },
+  "Listening Skills Subcomponents:Collaboration": {
+    "original": "Listening Skills Subcomponents:Collaboration",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on collaboration skills"
+  },
+  "Listening Skills Subcomponents:Precision of Movements": {
+    "original": "Listening Skills Subcomponents:Precision of Movements",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on precision of movements"
+  },
+  "Listening Skills Subcomponents:Social Boldness": {
+    "original": "Listening Skills Subcomponents:Social Boldness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on social boldness"
+  },
+  "Listening Skills Subcomponents:Auditory memory": {
+    "original": "Listening Skills Subcomponents:Auditory memory",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on auditory memory"
+  },
+  "Psychomotor Ability Subcomponents:Organized lifestyle": {
+    "original": "Psychomotor Ability Subcomponents:Organized lifestyle",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on organized lifestyle"
+  },
+  "Psychomotor Ability Subcomponents:Skill-endorsements count": {
+    "original": "Psychomotor Ability Subcomponents:Skill-endorsements count",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on skill endorsements"
+  },
+  "Psychomotor Ability Subcomponents:Mysteriousness": {
+    "original": "Psychomotor Ability Subcomponents:Mysteriousness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on mysteriousness"
+  },
+  "cultural_identity": {
+    "original": "Cultural Identity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cultural identity"
+  },
+  "intrinsic_motivation": {
+    "original": "Intrinsic Motivation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on intrinsic motivation"
+  },
+  "impartial-mindedness": {
+    "original": "Impartial-mindedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on impartial-mindedness"
+  },
+  "burnout_symptoms": {
+    "original": "Burnout Symptoms",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on burnout symptoms"
+  },
+  "holiness": {
+    "original": "Holiness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on holiness"
+  },
+  "selfcontrol": {
+    "original": "Selfcontrol",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-control"
+  },
+  "selfdirectedness": {
+    "original": "SelfDirectedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-directedness"
+  },
+  "encouraging_participation": {
+    "original": "Encouraging participation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on encouraging participation"
+  },
+  "impracticality": {
+    "original": "Impracticality",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on impracticality"
+  },
+  "meeting_deadlines": {
+    "original": "Meeting Deadlines",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on meeting deadlines"
+  },
+  "Data Analysis": {
+    "original": "Data Analysis",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on data analysis skills"
+  },
+  "Social Interaction Skills": {
+    "original": "Social Interaction Skills",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on social interaction skills"
+  },
+  "Psychoticism": {
+    "original": "Psychoticism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on psychoticism"
+  },
+  "Ethical leadership rating": {
+    "original": "Ethical leadership rating",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on ethical leadership rating"
+  },
+  "Slothfulness": {
+    "original": "Slothfulness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on slothfulness"
+  },
+  "Happiness": {
+    "original": "Happiness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on happiness levels"
+  },
+  "Contentment Levels": {
+    "original": "Contentment Levels",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on contentment levels"
+  },
+  "Neuroticism": {
+    "original": "Neuroticism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on neuroticism"
+  },
+  "Desire for excellence": {
+    "original": "Desire for excellence",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on desire for excellence"
+  },
+  "Perceiving": {
+    "original": "Perceiving",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on perceiving abilities"
+  },
+  "liberalism": {
+    "original": "Liberalism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on political orientation"
+  },
+  "inversion comfort level": {
+    "original": "Inversion comfort level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on personal comfort with inversion"
+  },
+  "affection": {
+    "original": "Affection",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional expression"
+  },
+  "numeric filing skills": {
+    "original": "Numeric Filing Skills",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on numerical accuracy"
+  },
+  "martyrdom": {
+    "original": "Martyrdom",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on willingness to sacrifice for a cause"
+  },
+  "parathyroid-hormone level": {
+    "original": "Parathyroid-hormone level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on hormone regulation"
+  },
+  "seeking approval": {
+    "original": "Seeking approval",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on need for validation"
+  },
+  "judging (J)": {
+    "original": "Judging (J)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on decision-making style"
+  },
+  "big five facet openness \u2013 artistic interests": {
+    "original": "Big Five facet Openness \u2013 Artistic Interests",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on creativity and open-mindedness"
+  },
+  "psychological construct: operant-learning rate": {
+    "original": "Psychological construct: Operant-Learning rate",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on learning efficiency"
+  },
+  "need_for_achievement": {
+    "original": "Need for Achievement level",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on motivation towards achievement"
+  },
+  "cantankerousness": {
+    "original": "Cantankerousness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on irritability and argumentativeness"
+  },
+  "material_properties_knowledge": {
+    "original": "Material properties knowledge",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on understanding of material properties"
+  },
+  "hostility": {
+    "original": "Hostility",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on aggressive behavior"
+  },
+  "independence": {
+    "original": "Independence",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on self-reliance and autonomy"
+  },
+  "sufi_practice_attendance_count": {
+    "original": "Sufi practice: Sufi retreat attendance count",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on frequency of Sufi retreat attendance"
+  },
+  "chromatin_accessibility_score": {
+    "original": "Chromatin-accessibility score",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on chromatin accessibility"
+  },
+  "spiritual_virtue_humility_practice_index": {
+    "original": "Spiritual virtue: Humility practice index",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on humility practice"
+  },
+  "i_ching_hexagram_36_resonance_level": {
+    "original": "I Ching hexagram 36 resonance level",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on I Ching hexagram 36 resonance"
+  },
+  "well_being_component_engagement": {
+    "original": "Well-being component: Engagement",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on engagement in well-being activities"
+  },
+  "Need for social interaction": {
+    "original": "Need for social interaction",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on need for social interaction"
+  },
+  "Peer-collaboration hours": {
+    "original": "Peer-collaboration hours",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on peer collaboration hours"
+  },
+  "Arts and Humanities": {
+    "original": "Arts and Humanities",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on arts and humanities"
+  },
+  "596. Religious practice: Quran khatam cycles per year": {
+    "original": "596. Religious practice: Quran khatam cycles per year",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on religious practice"
+  },
+  "926. Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation": {
+    "original": "926. Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Bah\u00e1\u2019\u00ed spiritual metric"
+  },
+  "Compassion": {
+    "original": "Compassion",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on compassion"
+  },
+  "Information Retention": {
+    "original": "Information Retention",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on information retention"
+  },
+  "Eye-contact duration": {
+    "original": "Eye-contact duration",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on eye contact duration"
+  },
+  "Self-righteousness": {
+    "original": "Self-righteousness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-righteousness"
+  },
+  "General Mood and Attitude": {
+    "original": "General Mood and Attitude",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on general mood and attitude"
+  },
+  "Bravery": {
+    "original": "Bravery",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on courage and willingness to take risks"
+  },
+  "Childhood Experiences": {
+    "original": "Childhood Experiences",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the impact of early life experiences on current behavior"
+  },
+  "Data-sharing consent level": {
+    "original": "Data-sharing consent level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's willingness to share personal data"
+  },
+  "Vision-check frequency": {
+    "original": "Vision-check frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the regularity of vision checks"
+  },
+  "Physical-violence exposure": {
+    "original": "Physical-violence exposure",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's history of physical violence exposure"
+  },
+  "Macronutrient ratio: fat": {
+    "original": "Macronutrient ratio: fat",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the proportion of fat in an individual's diet"
+  },
+  "Cooking and Culinary Arts": {
+    "original": "Cooking and Culinary Arts",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's proficiency in cooking and culinary arts"
+  },
+  "Language use": {
+    "original": "Language use",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's language skills and proficiency"
+  },
+  "Dance-style mastery diversity": {
+    "original": "Dance-style mastery diversity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's expertise in various dance styles"
+  },
+  "Satya Adherence": {
+    "original": "Satya Adherence",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on an individual's commitment to honesty and integrity"
+  },
+  "ethnocentrism": {
+    "original": "Ethnocentrism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cultural sensitivity"
+  },
+  "emotional_boundaries": {
+    "original": "Emotional Boundaries",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional regulation"
+  },
+  "creativity_in_solutions": {
+    "original": "Creativity in solutions",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on innovative thinking"
+  },
+  "psychological_construct_hope_scale": {
+    "original": "Psychological construct: Hope scale",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on hope levels"
+  },
+  "practice_frequency_walking_meditation": {
+    "original": "565. Practice frequency: Walking meditation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on walking meditation practice"
+  },
+  "depression_dep": {
+    "original": "Depression (DEP)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on depressive symptoms"
+  },
+  "understanding_mathematical_concepts": {
+    "original": "Understanding Mathematical Concepts",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on mathematical comprehension"
+  },
+  "hypomania_ma": {
+    "original": "Hypomania (Ma)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on hypomanic symptoms"
+  },
+  "goal_directed_behavior": {
+    "original": "Goal-Directed Behavior",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on goal-oriented actions"
+  },
+  "depth_of_emotional_connections": {
+    "original": "Depth of Emotional Connections",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional intimacy"
+  },
+  "Binding foundations index": {
+    "original": "Binding foundations index",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on foundation importance"
+  },
+  "Ego Dissolution Frequency": {
+    "original": "Ego Dissolution Frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on frequency of ego dissolution"
+  },
+  "Activator: Turning thoughts into action": {
+    "original": "Activator: Turning thoughts into action",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to turn thoughts into action"
+  },
+  "967. Gnostic spiritual metric: Archon meditation frequency": {
+    "original": "967. Gnostic spiritual metric: Archon meditation frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on gnostic spiritual metric"
+  },
+  "Exemplariness": {
+    "original": "Exemplariness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on exemplariness"
+  },
+  "Moral and Ethical Parameters:": {
+    "original": "Moral and Ethical Parameters:",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on moral and ethical parameters"
+  },
+  "Submission:": {
+    "original": "Submission:",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on submission quality"
+  },
+  "Frankness": {
+    "original": "Frankness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on frankness"
+  },
+  "Psychological construct: Psychological Safety climate": {
+    "original": "Psychological construct: Psychological Safety climate",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on psychological safety climate"
+  },
+  "Psychological construct: Self-Compassion total": {
+    "original": "Psychological construct: Self-Compassion total",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-compassion"
+  },
+  "executive_function_composite": {
+    "original": "Psychological construct: Executive-Function composite",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on executive function abilities"
+  },
+  "rebelliousness": {
+    "original": "Rebelliousness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on rebellious tendencies"
+  },
+  "volunteer_work": {
+    "original": "Volunteer Work",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on volunteer work frequency"
+  },
+  "intellect": {
+    "original": "Intellect",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on intellectual abilities"
+  },
+  "use_of_mathematical_formulas": {
+    "original": "Use of Mathematical Formulas",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on mathematical formula usage"
+  },
+  "coarseness": {
+    "original": "Coarseness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on coarseness level"
+  },
+  "behavioral_tendencies_and_subcomponents_sensitivity": {
+    "original": "Behavioral Tendencies and Subcomponents: Sensitivity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on sensitivity to stimuli"
+  },
+  "behavioral_tendencies_and_subcomponents_divided_attention_ability": {
+    "original": "Behavioral Tendencies and Subcomponents: Divided Attention Ability",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on divided attention ability"
+  },
+  "psychological_construct_accuraturative_stress_score": {
+    "original": "Psychological construct: Acculturative Stress score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on acculturative stress levels"
+  },
+  "Dauntlessness": {
+    "original": "Dauntlessness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on courage and bravery"
+  },
+  "Concreteness": {
+    "original": "Concreteness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on clearness of expression"
+  },
+  "Hysteria (Hy)": {
+    "original": "Hysteria (Hy)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional instability"
+  },
+  "Sentence Structure": {
+    "original": "Sentence Structure",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on grammatical correctness"
+  },
+  "Esteem Needs": {
+    "original": "Esteem Needs",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-esteem"
+  },
+  "Understanding mechanical concepts": {
+    "original": "Understanding mechanical concepts",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on comprehension of technical information"
+  },
+  "Auditory Memory Recall": {
+    "original": "Auditory Memory Recall",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to recall auditory information"
+  },
+  "Storytelling proficiency": {
+    "original": "Storytelling proficiency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on narrative skills"
+  },
+  "Music-lessons years": {
+    "original": "Music-lessons years",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on musical experience"
+  },
+  "Warmheartedness": {
+    "original": "Warmheartedness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on warmth towards others"
+  },
+  "Self-effacement": {
+    "original": "Self-effacement",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on self-awareness and humility"
+  },
+  "Outspokenness": {
+    "original": "Outspokenness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on assertiveness in communication"
+  },
+  "Sleep-environment temperature": {
+    "original": "Sleep-environment temperature",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on comfort with sleep environment"
+  },
+  "Comprehension of spoken information": {
+    "original": "Comprehension of spoken information",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on ability to understand spoken language"
+  },
+  "Blissfulness": {
+    "original": "Blissfulness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on overall sense of well-being"
+  },
+  "Sequential Memory Recall": {
+    "original": "Sequential Memory Recall",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on ability to recall sequential information"
+  },
+  "Withdrawnness": {
+    "original": "Withdrawnness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on social withdrawal and isolation"
+  },
+  "892. Hindu spiritual metric: Yoga discipline hours / week": {
+    "original": "892. Hindu spiritual metric: Yoga discipline hours / week",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on adherence to yoga practice"
+  },
+  "Conservatism": {
+    "original": "Conservatism",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on willingness to challenge traditional values"
+  },
+  "adaptability_and_flexibility_subcomponents": {
+    "original": "Adaptability and Flexibility Subcomponents:898. Hindu spiritual metric: Vrata vows observed / year",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Hindu spiritual practices and their impact on adaptability.",
+    "needs_external_data": false
+  },
+  "ardency": {
+    "original": "Ardency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the level of enthusiasm and motivation displayed.",
+    "needs_external_data": false
+  },
+  "aesthetic_appreciation": {
+    "original": "Aesthetic Appreciation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the ability to appreciate and enjoy beauty.",
+    "needs_external_data": false
+  },
+  "transactional_leadership": {
+    "original": "Transactional Leadership:Value orientation: Universalism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the level of emphasis on individual achievement and competition.",
+    "needs_external_data": false
+  },
+  "perseverance": {
+    "original": "Perseverance",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the ability to persist in the face of obstacles.",
+    "needs_external_data": false
+  },
+  "regularity_of_self_reflection": {
+    "original": "Regularity of Self-Reflection",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the frequency and depth of self-reflection.",
+    "needs_external_data": false
+  },
+  "controlling_reactions": {
+    "original": "Controlling Reactions",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the ability to manage emotions and reactions in challenging situations.",
+    "needs_external_data": false
+  },
+  "psychological_construct_cultural_intelligence_behavioral": {
+    "original": "Psychological construct: Cultural Intelligence \u2013 Behavioral",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the level of awareness and application of cultural intelligence in behavioral contexts.",
+    "needs_external_data": false
+  },
+  "metabolic_rate": {
+    "original": "Metabolic Rate (Low or High)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on metabolic rate"
+  },
+  "dietary_habits": {
+    "original": "Dietary Habits",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on dietary habits"
+  },
+  "significance": {
+    "original": "Significance: Desire to make an impact",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on significance"
+  },
+  "resilience_trait_score": {
+    "original": "Psychological construct: Resilience-Trait score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on resilience-trait score"
+  },
+  "boredom_susceptibility": {
+    "original": "Boredom Susceptibility",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on boredom susceptibility"
+  },
+  "consummatory_pleasure_scale": {
+    "original": "Psychological construct: Consummatory Pleasure scale",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on consummatory pleasure scale"
+  },
+  "leadership_styles_and_behaviors": {
+    "original": "Leadership Styles and Behaviors:723. I Ching hexagram 5 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on leadership styles and behaviors"
+  },
+  "macronutrient_ratio": {
+    "original": "Macronutrient ratio: carbs",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on macronutrient ratio"
+  },
+  "passport_stamps_count": {
+    "original": "Passport-stamps count",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on passport-stamps count"
+  },
+  "local-food-sourcing": {
+    "original": "Local-food sourcing %",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on percentage of local food sourced"
+  },
+  "patient-care-orientation": {
+    "original": "Patient care orientation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on patient care orientation"
+  },
+  "soft-skill-training-hours": {
+    "original": "Soft-skill training hours",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on soft skill training hours"
+  },
+  "graffiti-appreciation": {
+    "original": "Graffiti appreciation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on graffiti appreciation"
+  },
+  "preference-for-home-cooked-vs-restaurant-meals": {
+    "original": "Preference for Home-Cooked vs Restaurant Meals",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on preference for home-cooked meals"
+  },
+  "immune-response-age": {
+    "original": "Immune-response age",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on immune response age"
+  },
+  "social-cognition-variable-cognitive-empathy": {
+    "original": "Social-cognition variable: Cognitive Empathy",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cognitive empathy"
+  },
+  "kink-interest-diversity": {
+    "original": "Kink-interest diversity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on kink interest diversity"
+  },
+  "adaptability-and-flexibility-judging-consequences": {
+    "original": "Adaptability and Flexibility: Judging Consequences",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on judging consequences"
+  },
+  "harmfulness": {
+    "original": "Harmfulness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on impact on others"
+  },
+  "affinity": {
+    "original": "Affinity",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on social connections"
+  },
+  "abasement": {
+    "original": "Abasement",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on self-perceived shame"
+  },
+  "chronic pain presence": {
+    "original": "Chronic pain presence",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on physical discomfort level"
+  },
+  "discernment practice hours / week": {
+    "original": "Discernment practice hours / week",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on spiritual growth rate"
+  },
+  "initiative": {
+    "original": "Initiative",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on proactive behavior"
+  },
+  "courageousness": {
+    "original": "Courageousness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on fearlessness in challenges"
+  },
+  "joyfulness": {
+    "original": "Joyfulness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on emotional well-being"
+  },
+  "suspicion": {
+    "original": "Suspicion",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on trust issues"
+  },
+  "basophil count": {
+    "original": "Basophil count",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on immune system health"
+  },
+  "Attachment Avoidance": {
+    "original": "Attachment avoidance score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on attachment avoidance"
+  },
+  "Time Orientation End Points": {
+    "original": "Time Orientation End Points",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on time orientation"
+  },
+  "Brazenness": {
+    "original": "Talkativeness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on talkativeness"
+  },
+  "Equitableness": {
+    "original": "Equitableness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on equitableness"
+  },
+  "Ideas generated/day": {
+    "original": "Ideas generated/day",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ideas generated per day"
+  },
+  "Originality": {
+    "original": "Originality",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on originality"
+  },
+  "Fearfulness: Fear of physical dangers": {
+    "original": "Fearfulness: Fear of physical dangers",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on fearfulness"
+  },
+  "Dance rehearsal hours/week": {
+    "original": "Dance rehearsal hours/week",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on dance rehearsal frequency"
+  },
+  "561. Practice frequency: Mantra meditation": {
+    "original": "Practice frequency: Mantra meditation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on practice frequency"
+  },
+  "Public-transport km/week": {
+    "original": "Public-transport km/week",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on weekly public transport usage"
+  },
+  "Social Desirability Bias": {
+    "original": "Social Desirability Bias",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on self-reported honesty"
+  },
+  "I Ching hexagram 43 resonance level": {
+    "original": "I Ching hexagram 43 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on I Ching hexagram resonance level"
+  },
+  "Disagreeableness": {
+    "original": "Disagreeableness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on disagreeable behavior"
+  },
+  "Participation in Community Activities": {
+    "original": "Participation in Community Activities",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on community participation"
+  },
+  "Impudence": {
+    "original": "Impudence",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on impudent behavior"
+  },
+  "Analogies": {
+    "original": "Analogies",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on analogy skills"
+  },
+  "Clumsiness": {
+    "original": "Clumsiness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on clumsiness"
+  },
+  "Tendency Toward Compromise or Confrontation": {
+    "original": "Tendency Toward Compromise or Confrontation",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on conflict resolution style"
+  },
+  "737. I Ching hexagram 19 resonance level": {
+    "original": "737. I Ching hexagram 19 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on I Ching hexagram resonance level"
+  },
+  "robotics-interaction frequency": {
+    "original": "Robotics-interaction frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on interaction with robots"
+  },
+  "casual lifestyle": {
+    "original": "Casual lifestyle",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on daily routine and leisure activities"
+  },
+  "collectedness": {
+    "original": "Collectedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on personal organization and tidiness"
+  },
+  "reliance on context": {
+    "original": "Reliance on context",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to understand information without prior knowledge"
+  },
+  "delegation skills": {
+    "original": "Delegation skills",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to assign tasks and manage team members"
+  },
+  "i-ching hexagram 49 resonance level": {
+    "original": "I Ching hexagram 49 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on understanding of I Ching principles and their application"
+  },
+  "managing emotions": {
+    "original": "Managing emotions",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to recognize, understand, and regulate emotions"
+  },
+  "scripture memorization verses": {
+    "original": "Scripture memorization verses",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to recall and apply scripture knowledge"
+  },
+  "conventional": {
+    "original": "Conventional",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on adherence to established norms and standards"
+  },
+  "bhagavad-gita study hours": {
+    "original": "Bhagavad-Gita study hours",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on depth of understanding and application of Bhagavad-Gita principles"
+  },
+  "open-source_contributions": {
+    "original": "Open-source contributions",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [contribution_frequency]"
+  },
+  "psychological_construct_social_conformity_tendency": {
+    "original": "Psychological construct: Social Conformity tendency",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [social_compliance]"
+  },
+  "individuality": {
+    "original": "Individuality",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [self_expression]"
+  },
+  "i_ching_hexagram_22_resonance_level": {
+    "original": "740. I Ching hexagram 22 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [hexagram_resonance]"
+  },
+  "attachment_style_secure": {
+    "original": "Attachment style: Secure",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [attachment_security]"
+  },
+  "intelligence_quotient_iq": {
+    "original": "Intelligence Quotient (IQ)",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [cognitive_ability]"
+  },
+  "blog-subscriber-count": {
+    "original": "Blog-subscriber count",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [blog_engagement]"
+  },
+  "non-verbal_communication_skills": {
+    "original": "Non-Verbal Communication Skills",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [communication_effectiveness]"
+  },
+  "drug-use-history": {
+    "original": "Drug-use history",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [substance_abuse]"
+  },
+  "commute-time-day": {
+    "original": "Commute time/day",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on [commuting_convenience]"
+  },
+  "decision-making_speed": {
+    "original": "Decision-making speed",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Speed"
+  },
+  "excuse_making_tendency": {
+    "original": "Psychological construct: Excuse-Making tendency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Tendency"
+  },
+  "peer_to_peer_lending_usage": {
+    "original": "Peer-to-peer lending usage",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Usage"
+  },
+  "eye_contact_avoidance_score": {
+    "original": "Psychological construct: Eye-Contact avoidance score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Score"
+  },
+  "faux_pas_recognition_accuracy": {
+    "original": "Social-cognition variable: Faux Pas Recognition accuracy",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Accuracy"
+  },
+  "conscientiousness_c": {
+    "original": "Conscientiousness (C):",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Conscientiousness"
+  },
+  "use_of_nature_as_a_stress_reliever": {
+    "original": "Use of Nature as a Stress Reliever",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Relief"
+  },
+  "attitude_toward_learning": {
+    "original": "Attitude toward learning",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Attitude"
+  },
+  "conscientiousness_facets_honesty_humility_trait_score": {
+    "original": "Honesty-humility trait score",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Score"
+  },
+  "digital-nomad months": {
+    "original": "Digital-nomad months",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on frequency of digital nomad lifestyle"
+  },
+  "snacking behavior": {
+    "original": "Snacking Behavior",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on snacking habits"
+  },
+  "aura-color perception": {
+    "original": "Aura-color perception",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on color perception abilities"
+  },
+  "sacred text engagement: zohar (kabbalah) study hours": {
+    "original": "Sacred text engagement: Zohar (Kabbalah) study hours",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on study hours of sacred texts"
+  },
+  "motivational drivers": {
+    "original": "Motivational Drivers",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on motivational factors"
+  },
+  "cloud-backup frequency": {
+    "original": "Cloud-backup frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cloud backup habits"
+  },
+  "learning style": {
+    "original": "Learning Style",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on learning preferences"
+  },
+  "isamic practice: seerah study hours": {
+    "original": "Islamic practice: Seerah study hours",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Islamic practice habits"
+  },
+  "safety compliance": {
+    "original": "Safety compliance",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on safety protocols followed"
+  },
+  "sensationalism": {
+    "original": "Sensationalism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on sensational appeal"
+  },
+  "nationality": {
+    "original": "Nationality",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cultural identity"
+  },
+  "drollness": {
+    "original": "Drollness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on humor style"
+  },
+  "cooperation": {
+    "original": "Cooperation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on teamwork ability"
+  },
+  "breakfast-skipping frequency": {
+    "original": "Breakfast-skipping frequency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on daily routine"
+  },
+  "impulsivity": {
+    "original": "Impulsivity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on decision-making speed"
+  },
+  "museum visits/year": {
+    "original": "Museum visits/year",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on cultural engagement"
+  },
+  "choir participation years": {
+    "original": "Choir participation years",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on musical involvement"
+  },
+  "delegation Ability": {
+    "original": "Delegation Ability",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on leadership skills"
+  },
+  "kabbalah_sephira_balance": {
+    "original": "Kabbalah sephira balance: Tiferet",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Kabbalistic principles and the importance of balance in spiritual growth"
+  },
+  "desire_to_influence_others": {
+    "original": "Desire to influence others",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on the level of ambition and drive to shape opinions and decisions"
+  },
+  "vivacity": {
+    "original": "Vivacity",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on energy levels, enthusiasm, and overall zest for life"
+  },
+  "genialness": {
+    "original": "Genialness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on warmth, friendliness, and approachability"
+  },
+  "cognitive_measure_working_memory_index": {
+    "original": "Cognitive measure: Working Memory Index",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on working memory capacity and ability to hold and manipulate information in mind"
+  },
+  "ethical_practices": {
+    "original": "Ethical practices",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on adherence to moral principles, codes of conduct, and professional ethics"
+  },
+  "new-age_spiritual_metric_channeling_sessions_year": {
+    "original": "New-Age spiritual metric: Channeling sessions / year",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on the frequency and depth of channeling sessions, indicating spiritual growth and connection"
+  },
+  "civility": {
+    "original": "Civility",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on respect for others, consideration for their feelings, and polite behavior in interactions"
+  },
+  "sleep_apnea": {
+    "original": "Sleep Apnea",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on the severity of sleep apnea symptoms, impact on daily life, and overall health"
+  },
+  "classiness": {
+    "original": "Classiness",
+    "scoring_guideline": "Score 1-5 where 1=[low], 5=[high] based on refinement, elegance, and sophistication in behavior, mannerisms, and appearance"
+  },
+  "control_over_situations": {
+    "original": "Control over situations",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to control and manage one's environment.",
+    "needs_external_data": false
+  },
+  "time_outdoors_day_h": {
+    "original": "Time outdoors/day (h)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on amount of time spent outdoors per day.",
+    "needs_external_data": false
+  },
+  "effeteness": {
+    "original": "Effeteness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of effectiveness.",
+    "needs_external_data": false
+  },
+  "polygenic_risk_cardiovascular_disease": {
+    "original": "Polygenic risk: cardiovascular disease",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on genetic predisposition to cardiovascular disease.",
+    "needs_external_data": true
+  },
+  "psychological_construct_identity_diffusion_level": {
+    "original": "Psychological construct: Identity Diffusion level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of identity diffusion.",
+    "needs_external_data": false
+  },
+  "learning_through_movement": {
+    "original": "Learning through movement",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to learn through physical activity.",
+    "needs_external_data": false
+  },
+  "caffeine_sensitivity_gene": {
+    "original": "Caffeine sensitivity gene",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on genetic predisposition to caffeine sensitivity.",
+    "needs_external_data": true
+  },
+  "hatefulness": {
+    "original": "Hatefulness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of hateful behavior.",
+    "needs_external_data": false
+  },
+  "persistence": {
+    "original": "Persistence",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to persist in tasks.",
+    "needs_external_data": false
+  },
+  "psychological_construct_perfectionistic_strivings": {
+    "original": "Psychological construct: Perfectionistic Strivings",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of perfectionistic striving.",
+    "needs_external_data": false
+  },
+  "Wake-time consistency": {
+    "original": "Wake-time consistency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Consistency"
+  },
+  "Numerical Reasoning": {
+    "original": "Numerical Reasoning",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Reasoning Skill"
+  },
+  "Social-cognition variable: Mentalizing network activation": {
+    "original": "Social-cognition variable: Mentalizing network activation",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Activation Level"
+  },
+  "Patriotism": {
+    "original": "Patriotism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on National Pride"
+  },
+  "Leadership Styles: Servility": {
+    "original": "Leadership Styles: Servility",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Leadership Style"
+  },
+  "742. I Ching hexagram 24 resonance level": {
+    "original": "742. I Ching hexagram 24 resonance level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Hexagram Resonance"
+  },
+  "Enneagram Personality Types: Stress Recovery Ability": {
+    "original": "Enneagram Personality Types: Stress Recovery Ability",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Stress Recovery Skill"
+  },
+  "Troubleshooting technical issues": {
+    "original": "Troubleshooting technical issues",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Technical Skills"
+  },
+  "Defense-mechanism tendency": {
+    "original": "Defense-mechanism tendency: Introjection",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on introjection"
+  },
+  "Irritability": {
+    "original": "Irritability",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on irritability"
+  },
+  "Travel-companions diversity": {
+    "original": "Travel-companions diversity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on travel companions diversity"
+  },
+  "Sacred text engagement: Quran surahs memorized": {
+    "original": "627. Sacred text engagement: Quran surahs memorized",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Quran surahs memorized"
+  },
+  "Trust in others": {
+    "original": "Trust in others",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on trust in others"
+  },
+  "Gamified-finance-app usage": {
+    "original": "Gamified-finance-app usage",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on gamified finance app usage"
+  },
+  "Buddhist practice: Eightfold Path \u2013 Right Intention level": {
+    "original": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Eightfold Path \u2013 Right Intention level"
+  },
+  "Caffeine intake (mg/day)": {
+    "original": "Caffeine intake (mg/day)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on caffeine intake mg day"
+  },
+  "Comfort with Vulnerability": {
+    "original": "Comfort with Vulnerability",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on comfort with vulnerability"
+  },
+  "Anticipativeness": {
+    "original": "Anticipativeness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on anticipativeness"
+  },
+  "Avoiding Home-security-system presence": {
+    "original": "Additional Common Parameters and Their End Points:Avoiding",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Avoiding home security systems is a low extreme behavior"
+  },
+  "HEXACO domain: Honesty-Humility": {
+    "original": "Additional Common Parameters and Their End Points:HEXACO domain: Honesty-Humility",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: HEXACO domain: Honesty-Humility is a high extreme value"
+  },
+  "Eating Habits (Home-Cooked vs. Eating Out)": {
+    "original": "Additional Common Parameters and Their End Points:Eating Habits (Home-Cooked vs. Eating Out)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Eating habits are a moderate extreme value"
+  },
+  "Decision-Making Confidence": {
+    "original": "Additional Common Parameters and Their End Points:Decision-Making Confidence",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Decision-making confidence is a high extreme value"
+  },
+  "Alignment with societal roles": {
+    "original": "Additional Common Parameters and Their End Points:Alignment with societal roles",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Alignment with societal roles is a moderate extreme value"
+  },
+  "Connectedness: Belief in interconnections": {
+    "original": "Additional Common Parameters and Their End Points:Connectedness: Belief in interconnections",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Connectedness is a high extreme value"
+  },
+  "Quirkiness": {
+    "original": "Additional Common Parameters and Their End Points:Quirkiness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Quirkiness is a moderate extreme value"
+  },
+  "Creative resilience": {
+    "original": "Additional Common Parameters and Their End Points:Creative resilience",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on [criterion]: Creative resilience is a high extreme value"
+  },
+  "rapid_cognitive_processing": {
+    "original": "Rapid cognitive processing",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on speed and efficiency of cognitive processes"
+  },
+  "cordiality": {
+    "original": "Cordiality",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of kindness, empathy, and warmth towards others"
+  },
+  "types_of_mindfulness_techniques_used": {
+    "original": "Types of Mindfulness Techniques Used",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on variety and effectiveness of mindfulness techniques used"
+  },
+  "economic_reasoning": {
+    "original": "Economic reasoning",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to make sound economic decisions"
+  },
+  "conformity": {
+    "original": "Conformity",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on level of willingness to follow rules and norms"
+  },
+  "pet_enrichment_activities_count": {
+    "original": "Pet-enrichment activities count",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on number and variety of pet enrichment activities provided"
+  },
+  "aestheticism": {
+    "original": "Aestheticism",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on appreciation for beauty, art, and design"
+  },
+  "type_of_support_preferred_emotional_vs_practical": {
+    "original": "Type of Support Preferred (Emotional vs. Practical)",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on preference for emotional or practical support"
+  },
+  "mental_arithmetic_speed": {
+    "original": "Mental Arithmetic Speed",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on speed and accuracy of mental arithmetic calculations"
+  },
+  "patience_resistance_to_anger": {
+    "original": "Patience: Resistance to anger",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on ability to remain calm in the face of provocation or frustration"
+  },
+  "flawlessness": {
+    "original": "Flawlessness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Consistency"
+  },
+  "self-efficacy": {
+    "original": "Self-Efficacy",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Confidence"
+  },
+  "computer-skills": {
+    "original": "Computer Skills:899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Consistency"
+  },
+  "spelling_accuracy": {
+    "original": "Spelling Accuracy:793. Sufi practice: Dhikr repetitions / day",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Consistency"
+  },
+  "peacefulness": {
+    "original": "Peacefulness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Calmness"
+  },
+  "doggedness": {
+    "original": "Doggedness",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Persistence"
+  },
+  "decency": {
+    "original": "Decency",
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Moral Integrity"
+  },
+  "processed-food-frequency": {
+    "original": "Processed-food frequency",
+    "needs_external_data": true,
+    "scoring_guideline": "Score 1-5 where 1=[low extreme], 5=[high extreme] based on Consumption"
+  }
+}
