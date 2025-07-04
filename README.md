@@ -1,6 +1,3 @@
-Here's a comprehensive README.md file for your Conversation Evaluation System assignment:
-
-```markdown
 # Ahoum - Conversation Evaluation System
 
 ## Overview
